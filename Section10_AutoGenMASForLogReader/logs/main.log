@@ -1,0 +1,333 @@
+2025-06-11 20:20:40 [info] Starting app {
+  appVersion: '0.10.14',
+  isPackaged: true,
+  platform: 'darwin',
+  arch: 'arm64',
+  nodeVersion: '22.15.1'
+}
+2025-06-11 20:20:40 [info] App is installed, enabling initial check and auto-updates
+2025-06-11 20:20:40 [info] Checking for updates
+2025-06-12 01:10:51 [info] Checking for updates
+2025-06-12 05:41:55 [info] Checking for updates
+2025-06-12 06:09:27 [error] Failed to show toast: {
+  error: Error
+      at t (/Applications/Claude.app/Contents/Resources/app.asar/.vite/build/index.js:35:5924)
+      at new <anonymous> (/Applications/Claude.app/Contents/Resources/app.asar/.vite/build/index.js:37:57439)
+      at u (/Applications/Claude.app/Contents/Resources/app.asar/.vite/build/index.js:37:58266)
+      at /Applications/Claude.app/Contents/Resources/app.asar/.vite/build/index.js:37:57921
+      at t.<anonymous> (/Applications/Claude.app/Contents/Resources/app.asar/.vite/build/index.js:37:49851)
+      at t._execute (/Applications/Claude.app/Contents/Resources/app.asar/.vite/build/index.js:37:27704)
+      at t.execute (/Applications/Claude.app/Contents/Resources/app.asar/.vite/build/index.js:37:27527)
+      at t.flush (/Applications/Claude.app/Contents/Resources/app.asar/.vite/build/index.js:37:31916)
+      at listOnTimeout (node:internal/timers:588:17)
+      at process.processTimers (node:internal/timers:523:7) {
+    stack: 'Error\n' +
+      '    at t (/Applications/Claude.app/Contents/Resources/app.asar/.vite/build/index.js:35:5924)\n' +
+      '    at new <anonymous> (/Applications/Claude.app/Contents/Resources/app.asar/.vite/build/index.js:37:57439)\n' +
+      '    at u (/Applications/Claude.app/Contents/Resources/app.asar/.vite/build/index.js:37:58266)\n' +
+      '    at /Applications/Claude.app/Contents/Resources/app.asar/.vite/build/index.js:37:57921\n' +
+      '    at t.<anonymous> (/Applications/Claude.app/Contents/Resources/app.asar/.vite/build/index.js:37:49851)\n' +
+      '    at t._execute (/Applications/Claude.app/Contents/Resources/app.asar/.vite/build/index.js:37:27704)\n' +
+      '    at t.execute (/Applications/Claude.app/Contents/Resources/app.asar/.vite/build/index.js:37:27527)\n' +
+      '    at t.flush (/Applications/Claude.app/Contents/Resources/app.asar/.vite/build/index.js:37:31916)\n' +
+      '    at listOnTimeout (node:internal/timers:588:17)\n' +
+      '    at process.processTimers (node:internal/timers:523:7)',
+    message: 'Timeout has occurred',
+    name: 'TimeoutError',
+    info: { meta: null, lastValue: null, seen: 0 }
+  }
+}
+2025-06-12 06:09:27 [error] Failed to show toast: {
+  error: Error
+      at t (/Applications/Claude.app/Contents/Resources/app.asar/.vite/build/index.js:35:5924)
+      at new <anonymous> (/Applications/Claude.app/Contents/Resources/app.asar/.vite/build/index.js:37:57439)
+      at u (/Applications/Claude.app/Contents/Resources/app.asar/.vite/build/index.js:37:58266)
+      at /Applications/Claude.app/Contents/Resources/app.asar/.vite/build/index.js:37:57921
+      at t.<anonymous> (/Applications/Claude.app/Contents/Resources/app.asar/.vite/build/index.js:37:49851)
+      at t._execute (/Applications/Claude.app/Contents/Resources/app.asar/.vite/build/index.js:37:27704)
+      at t.execute (/Applications/Claude.app/Contents/Resources/app.asar/.vite/build/index.js:37:27527)
+      at t.flush (/Applications/Claude.app/Contents/Resources/app.asar/.vite/build/index.js:37:31916)
+      at listOnTimeout (node:internal/timers:588:17)
+      at process.processTimers (node:internal/timers:523:7) {
+    stack: 'Error\n' +
+      '    at t (/Applications/Claude.app/Contents/Resources/app.asar/.vite/build/index.js:35:5924)\n' +
+      '    at new <anonymous> (/Applications/Claude.app/Contents/Resources/app.asar/.vite/build/index.js:37:57439)\n' +
+      '    at u (/Applications/Claude.app/Contents/Resources/app.asar/.vite/build/index.js:37:58266)\n' +
+      '    at /Applications/Claude.app/Contents/Resources/app.asar/.vite/build/index.js:37:57921\n' +
+      '    at t.<anonymous> (/Applications/Claude.app/Contents/Resources/app.asar/.vite/build/index.js:37:49851)\n' +
+      '    at t._execute (/Applications/Claude.app/Contents/Resources/app.asar/.vite/build/index.js:37:27704)\n' +
+      '    at t.execute (/Applications/Claude.app/Contents/Resources/app.asar/.vite/build/index.js:37:27527)\n' +
+      '    at t.flush (/Applications/Claude.app/Contents/Resources/app.asar/.vite/build/index.js:37:31916)\n' +
+      '    at listOnTimeout (node:internal/timers:588:17)\n' +
+      '    at process.processTimers (node:internal/timers:523:7)',
+    message: 'Timeout has occurred',
+    name: 'TimeoutError',
+    info: { meta: null, lastValue: null, seen: 0 }
+  }
+}
+2025-06-12 06:09:27 [error] Failed to show toast: {
+  error: Error
+      at t (/Applications/Claude.app/Contents/Resources/app.asar/.vite/build/index.js:35:5924)
+      at new <anonymous> (/Applications/Claude.app/Contents/Resources/app.asar/.vite/build/index.js:37:57439)
+      at u (/Applications/Claude.app/Contents/Resources/app.asar/.vite/build/index.js:37:58266)
+      at /Applications/Claude.app/Contents/Resources/app.asar/.vite/build/index.js:37:57921
+      at t.<anonymous> (/Applications/Claude.app/Contents/Resources/app.asar/.vite/build/index.js:37:49851)
+      at t._execute (/Applications/Claude.app/Contents/Resources/app.asar/.vite/build/index.js:37:27704)
+      at t.execute (/Applications/Claude.app/Contents/Resources/app.asar/.vite/build/index.js:37:27527)
+      at t.flush (/Applications/Claude.app/Contents/Resources/app.asar/.vite/build/index.js:37:31916)
+      at listOnTimeout (node:internal/timers:588:17)
+      at process.processTimers (node:internal/timers:523:7) {
+    stack: 'Error\n' +
+      '    at t (/Applications/Claude.app/Contents/Resources/app.asar/.vite/build/index.js:35:5924)\n' +
+      '    at new <anonymous> (/Applications/Claude.app/Contents/Resources/app.asar/.vite/build/index.js:37:57439)\n' +
+      '    at u (/Applications/Claude.app/Contents/Resources/app.asar/.vite/build/index.js:37:58266)\n' +
+      '    at /Applications/Claude.app/Contents/Resources/app.asar/.vite/build/index.js:37:57921\n' +
+      '    at t.<anonymous> (/Applications/Claude.app/Contents/Resources/app.asar/.vite/build/index.js:37:49851)\n' +
+      '    at t._execute (/Applications/Claude.app/Contents/Resources/app.asar/.vite/build/index.js:37:27704)\n' +
+      '    at t.execute (/Applications/Claude.app/Contents/Resources/app.asar/.vite/build/index.js:37:27527)\n' +
+      '    at t.flush (/Applications/Claude.app/Contents/Resources/app.asar/.vite/build/index.js:37:31916)\n' +
+      '    at listOnTimeout (node:internal/timers:588:17)\n' +
+      '    at process.processTimers (node:internal/timers:523:7)',
+    message: 'Timeout has occurred',
+    name: 'TimeoutError',
+    info: { meta: null, lastValue: null, seen: 0 }
+  }
+}
+2025-06-12 06:12:24 [info] App is quitting, cleaning up...
+2025-06-13 10:34:38 [info] Starting app {
+  appVersion: '0.10.14',
+  isPackaged: true,
+  platform: 'darwin',
+  arch: 'arm64',
+  nodeVersion: '22.15.1'
+}
+2025-06-13 10:34:38 [info] App is installed, enabling initial check and auto-updates
+2025-06-13 10:34:38 [info] Checking for updates
+2025-06-13 11:46:40 [info] App is quitting, cleaning up...
+2025-06-13 11:46:40 [info] App is quitting, cleaning up...
+2025-06-16 10:21:50 [info] Starting app {
+  appVersion: '0.10.14',
+  isPackaged: true,
+  platform: 'darwin',
+  arch: 'arm64',
+  nodeVersion: '22.15.1'
+}
+2025-06-16 10:21:50 [info] App is installed, enabling initial check and auto-updates
+2025-06-16 10:21:50 [info] Checking for updates
+2025-06-16 10:29:52 [info] App is quitting, cleaning up...
+2025-06-16 10:30:07 [info] Starting app {
+  appVersion: '0.10.14',
+  isPackaged: true,
+  platform: 'darwin',
+  arch: 'arm64',
+  nodeVersion: '22.15.1'
+}
+2025-06-16 10:30:07 [info] App is installed, enabling initial check and auto-updates
+2025-06-16 10:30:07 [info] Checking for updates
+2025-06-16 14:30:07 [info] Checking for updates
+2025-06-16 16:35:54 [info] App is quitting, cleaning up...
+2025-06-16 16:37:31 [info] Starting app {
+  appVersion: '0.10.14',
+  isPackaged: true,
+  platform: 'darwin',
+  arch: 'arm64',
+  nodeVersion: '22.15.1'
+}
+2025-06-16 16:37:31 [info] App is installed, enabling initial check and auto-updates
+2025-06-16 16:37:32 [info] Checking for updates
+2025-06-16 18:53:13 [info] App is quitting, cleaning up...
+2025-06-17 14:48:14 [info] Starting app {
+  appVersion: '0.10.14',
+  isPackaged: true,
+  platform: 'darwin',
+  arch: 'arm64',
+  nodeVersion: '22.15.1'
+}
+2025-06-17 14:48:14 [info] App is installed, enabling initial check and auto-updates
+2025-06-17 14:48:14 [info] Checking for updates
+2025-06-17 14:48:14 [info] Found an update, downloading
+2025-06-17 14:48:29 [info] Update downloaded and ready to install { releaseName: 'Claude 0.10.38' }
+2025-06-17 15:41:53 [info] App is quitting, cleaning up...
+2025-06-21 08:26:50 [info] Starting app {
+  appVersion: '0.10.38',
+  isPackaged: true,
+  platform: 'darwin',
+  arch: 'arm64',
+  nodeVersion: '22.15.1'
+}
+2025-06-21 08:26:50 [info] Claude Studio: Feature disabled, skipping initialization
+2025-06-21 08:26:50 [info] App is installed, enabling initial check and auto-updates
+2025-06-21 08:26:50 [info] Registered cdx-registry:// protocol handler
+2025-06-21 08:26:50 [info] Checking for updates
+2025-06-21 08:32:32 [error] Failed to show toast: {
+  error: Error
+      at e (/Applications/Claude.app/Contents/Resources/app.asar/.vite/build/index.js:35:7375)
+      at new <anonymous> (/Applications/Claude.app/Contents/Resources/app.asar/.vite/build/index.js:37:57439)
+      at u (/Applications/Claude.app/Contents/Resources/app.asar/.vite/build/index.js:37:58266)
+      at /Applications/Claude.app/Contents/Resources/app.asar/.vite/build/index.js:37:57921
+      at e.<anonymous> (/Applications/Claude.app/Contents/Resources/app.asar/.vite/build/index.js:37:49851)
+      at e._execute (/Applications/Claude.app/Contents/Resources/app.asar/.vite/build/index.js:37:27704)
+      at e.execute (/Applications/Claude.app/Contents/Resources/app.asar/.vite/build/index.js:37:27527)
+      at e.flush (/Applications/Claude.app/Contents/Resources/app.asar/.vite/build/index.js:37:31916)
+      at listOnTimeout (node:internal/timers:588:17)
+      at process.processTimers (node:internal/timers:523:7) {
+    stack: 'Error\n' +
+      '    at e (/Applications/Claude.app/Contents/Resources/app.asar/.vite/build/index.js:35:7375)\n' +
+      '    at new <anonymous> (/Applications/Claude.app/Contents/Resources/app.asar/.vite/build/index.js:37:57439)\n' +
+      '    at u (/Applications/Claude.app/Contents/Resources/app.asar/.vite/build/index.js:37:58266)\n' +
+      '    at /Applications/Claude.app/Contents/Resources/app.asar/.vite/build/index.js:37:57921\n' +
+      '    at e.<anonymous> (/Applications/Claude.app/Contents/Resources/app.asar/.vite/build/index.js:37:49851)\n' +
+      '    at e._execute (/Applications/Claude.app/Contents/Resources/app.asar/.vite/build/index.js:37:27704)\n' +
+      '    at e.execute (/Applications/Claude.app/Contents/Resources/app.asar/.vite/build/index.js:37:27527)\n' +
+      '    at e.flush (/Applications/Claude.app/Contents/Resources/app.asar/.vite/build/index.js:37:31916)\n' +
+      '    at listOnTimeout (node:internal/timers:588:17)\n' +
+      '    at process.processTimers (node:internal/timers:523:7)',
+    message: 'Timeout has occurred',
+    name: 'TimeoutError',
+    info: { meta: null, lastValue: null, seen: 0 }
+  }
+}
+2025-06-21 08:32:32 [error] Failed to show toast: {
+  error: Error
+      at e (/Applications/Claude.app/Contents/Resources/app.asar/.vite/build/index.js:35:7375)
+      at new <anonymous> (/Applications/Claude.app/Contents/Resources/app.asar/.vite/build/index.js:37:57439)
+      at u (/Applications/Claude.app/Contents/Resources/app.asar/.vite/build/index.js:37:58266)
+      at /Applications/Claude.app/Contents/Resources/app.asar/.vite/build/index.js:37:57921
+      at e.<anonymous> (/Applications/Claude.app/Contents/Resources/app.asar/.vite/build/index.js:37:49851)
+      at e._execute (/Applications/Claude.app/Contents/Resources/app.asar/.vite/build/index.js:37:27704)
+      at e.execute (/Applications/Claude.app/Contents/Resources/app.asar/.vite/build/index.js:37:27527)
+      at e.flush (/Applications/Claude.app/Contents/Resources/app.asar/.vite/build/index.js:37:31916)
+      at listOnTimeout (node:internal/timers:588:17)
+      at process.processTimers (node:internal/timers:523:7) {
+    stack: 'Error\n' +
+      '    at e (/Applications/Claude.app/Contents/Resources/app.asar/.vite/build/index.js:35:7375)\n' +
+      '    at new <anonymous> (/Applications/Claude.app/Contents/Resources/app.asar/.vite/build/index.js:37:57439)\n' +
+      '    at u (/Applications/Claude.app/Contents/Resources/app.asar/.vite/build/index.js:37:58266)\n' +
+      '    at /Applications/Claude.app/Contents/Resources/app.asar/.vite/build/index.js:37:57921\n' +
+      '    at e.<anonymous> (/Applications/Claude.app/Contents/Resources/app.asar/.vite/build/index.js:37:49851)\n' +
+      '    at e._execute (/Applications/Claude.app/Contents/Resources/app.asar/.vite/build/index.js:37:27704)\n' +
+      '    at e.execute (/Applications/Claude.app/Contents/Resources/app.asar/.vite/build/index.js:37:27527)\n' +
+      '    at e.flush (/Applications/Claude.app/Contents/Resources/app.asar/.vite/build/index.js:37:31916)\n' +
+      '    at listOnTimeout (node:internal/timers:588:17)\n' +
+      '    at process.processTimers (node:internal/timers:523:7)',
+    message: 'Timeout has occurred',
+    name: 'TimeoutError',
+    info: { meta: null, lastValue: null, seen: 0 }
+  }
+}
+2025-06-21 08:32:32 [error] Failed to show toast: {
+  error: Error
+      at e (/Applications/Claude.app/Contents/Resources/app.asar/.vite/build/index.js:35:7375)
+      at new <anonymous> (/Applications/Claude.app/Contents/Resources/app.asar/.vite/build/index.js:37:57439)
+      at u (/Applications/Claude.app/Contents/Resources/app.asar/.vite/build/index.js:37:58266)
+      at /Applications/Claude.app/Contents/Resources/app.asar/.vite/build/index.js:37:57921
+      at e.<anonymous> (/Applications/Claude.app/Contents/Resources/app.asar/.vite/build/index.js:37:49851)
+      at e._execute (/Applications/Claude.app/Contents/Resources/app.asar/.vite/build/index.js:37:27704)
+      at e.execute (/Applications/Claude.app/Contents/Resources/app.asar/.vite/build/index.js:37:27527)
+      at e.flush (/Applications/Claude.app/Contents/Resources/app.asar/.vite/build/index.js:37:31916)
+      at listOnTimeout (node:internal/timers:588:17)
+      at process.processTimers (node:internal/timers:523:7) {
+    stack: 'Error\n' +
+      '    at e (/Applications/Claude.app/Contents/Resources/app.asar/.vite/build/index.js:35:7375)\n' +
+      '    at new <anonymous> (/Applications/Claude.app/Contents/Resources/app.asar/.vite/build/index.js:37:57439)\n' +
+      '    at u (/Applications/Claude.app/Contents/Resources/app.asar/.vite/build/index.js:37:58266)\n' +
+      '    at /Applications/Claude.app/Contents/Resources/app.asar/.vite/build/index.js:37:57921\n' +
+      '    at e.<anonymous> (/Applications/Claude.app/Contents/Resources/app.asar/.vite/build/index.js:37:49851)\n' +
+      '    at e._execute (/Applications/Claude.app/Contents/Resources/app.asar/.vite/build/index.js:37:27704)\n' +
+      '    at e.execute (/Applications/Claude.app/Contents/Resources/app.asar/.vite/build/index.js:37:27527)\n' +
+      '    at e.flush (/Applications/Claude.app/Contents/Resources/app.asar/.vite/build/index.js:37:31916)\n' +
+      '    at listOnTimeout (node:internal/timers:588:17)\n' +
+      '    at process.processTimers (node:internal/timers:523:7)',
+    message: 'Timeout has occurred',
+    name: 'TimeoutError',
+    info: { meta: null, lastValue: null, seen: 0 }
+  }
+}
+2025-06-21 08:32:45 [info] Main webview is unresponsive, will kill and reload
+2025-06-21 08:32:51 [info] App is quitting, cleaning up...
+2025-06-21 08:32:51 [info] Claude Studio: Feature disabled, skipping cleanup
+2025-06-21 08:32:52 [info] App is quitting, cleaning up...
+2025-06-21 08:32:52 [info] Claude Studio: Feature disabled, skipping cleanup
+2025-06-21 08:32:55 [info] Starting app {
+  appVersion: '0.10.38',
+  isPackaged: true,
+  platform: 'darwin',
+  arch: 'arm64',
+  nodeVersion: '22.15.1'
+}
+2025-06-21 08:32:55 [info] Claude Studio: Feature disabled, skipping initialization
+2025-06-21 08:32:55 [info] App is installed, enabling initial check and auto-updates
+2025-06-21 08:32:55 [info] Registered cdx-registry:// protocol handler
+2025-06-21 08:32:55 [info] Checking for updates
+2025-06-21 08:49:57 [info] App is quitting, cleaning up...
+2025-06-21 08:49:57 [info] Claude Studio: Feature disabled, skipping cleanup
+2025-06-21 08:50:01 [info] Starting app {
+  appVersion: '0.10.38',
+  isPackaged: true,
+  platform: 'darwin',
+  arch: 'arm64',
+  nodeVersion: '22.15.1'
+}
+2025-06-21 08:50:02 [info] Claude Studio: Feature disabled, skipping initialization
+2025-06-21 08:50:02 [info] App is installed, enabling initial check and auto-updates
+2025-06-21 08:50:02 [info] Registered cdx-registry:// protocol handler
+2025-06-21 08:50:02 [info] Checking for updates
+2025-06-21 14:12:09 [info] Checking for updates
+2025-06-21 19:40:08 [info] Checking for updates
+2025-06-22 00:50:26 [info] Checking for updates
+2025-06-22 05:47:32 [info] Checking for updates
+2025-06-22 09:05:33 [info] App is quitting, cleaning up...
+2025-06-22 09:05:33 [info] Claude Studio: Feature disabled, skipping cleanup
+2025-06-23 15:02:26 [info] Starting app {
+  appVersion: '0.10.38',
+  isPackaged: true,
+  platform: 'darwin',
+  arch: 'arm64',
+  nodeVersion: '22.15.1'
+}
+2025-06-23 15:02:26 [info] Claude Studio: Feature disabled, skipping initialization
+2025-06-23 15:02:27 [info] App is installed, enabling initial check and auto-updates
+2025-06-23 15:02:27 [info] Registered cdx-registry:// protocol handler
+2025-06-23 15:02:27 [info] Checking for updates
+2025-06-23 15:49:06 [info] App is quitting, cleaning up...
+2025-06-23 15:49:06 [info] Claude Studio: Feature disabled, skipping cleanup
+2025-06-23 15:49:09 [info] Starting app {
+  appVersion: '0.10.38',
+  isPackaged: true,
+  platform: 'darwin',
+  arch: 'arm64',
+  nodeVersion: '22.15.1'
+}
+2025-06-23 15:49:09 [info] Claude Studio: Feature disabled, skipping initialization
+2025-06-23 15:49:09 [info] App is installed, enabling initial check and auto-updates
+2025-06-23 15:49:09 [info] Registered cdx-registry:// protocol handler
+2025-06-23 15:49:09 [info] Checking for updates
+2025-06-23 16:18:36 [info] App is quitting, cleaning up...
+2025-06-23 16:18:36 [info] Claude Studio: Feature disabled, skipping cleanup
+2025-06-24 13:47:09 [info] Starting app {
+  appVersion: '0.10.38',
+  isPackaged: true,
+  platform: 'darwin',
+  arch: 'arm64',
+  nodeVersion: '22.15.1'
+}
+2025-06-24 13:47:10 [info] Claude Studio: Feature disabled, skipping initialization
+2025-06-24 13:47:10 [info] App is installed, enabling initial check and auto-updates
+2025-06-24 13:47:10 [info] Registered cdx-registry:// protocol handler
+2025-06-24 13:47:10 [info] Checking for updates
+2025-06-24 13:48:06 [info] App is quitting, cleaning up...
+2025-06-24 13:48:06 [info] Claude Studio: Feature disabled, skipping cleanup
+2025-06-24 15:00:08 [info] Starting app {
+  appVersion: '0.10.38',
+  isPackaged: true,
+  platform: 'darwin',
+  arch: 'arm64',
+  nodeVersion: '22.15.1'
+}
+2025-06-24 15:00:08 [info] Claude Studio: Feature disabled, skipping initialization
+2025-06-24 15:00:08 [info] App is installed, enabling initial check and auto-updates
+2025-06-24 15:00:08 [info] Registered cdx-registry:// protocol handler
+2025-06-24 15:00:08 [info] Checking for updates
+2025-06-24 19:00:40 [info] Checking for updates
+2025-06-24 23:28:53 [info] Checking for updates
+2025-06-25 03:39:10 [info] Checking for updates

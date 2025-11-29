@@ -1,0 +1,205 @@
+2025-06-11 20:20:41 [warn] Error with Permissions-Policy header: Unrecognized feature: 'ambient-light-sensor'.
+2025-06-11 20:20:41 [warn] Error with Permissions-Policy header: Unrecognized feature: 'document-domain'.
+2025-06-11 20:20:41 [warn] Error with Permissions-Policy header: Unrecognized feature: 'speaker-selection'.
+2025-06-11 20:20:41 [warn] Error with Permissions-Policy header: Unrecognized feature: 'web-share'.
+2025-06-11 20:20:41 [warn] Error with Permissions-Policy header: Unrecognized feature: 'ambient-light-sensor'.
+2025-06-11 20:20:41 [warn] Error with Permissions-Policy header: Unrecognized feature: 'document-domain'.
+2025-06-11 20:20:41 [warn] Error with Permissions-Policy header: Unrecognized feature: 'speaker-selection'.
+2025-06-11 20:20:41 [warn] Error with Permissions-Policy header: Unrecognized feature: 'web-share'.
+2025-06-11 20:20:41 [warn] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2025-06-11 20:20:41 [warn] Found 1 service worker(s), which are no longer used. Unregistering.
+2025-06-11 20:20:44 [error] Potential permissions policy violation: payment is not allowed in this document.
+2025-06-11 20:20:49 [error] Potential permissions policy violation: payment is not allowed in this document.
+2025-06-11 20:21:42 [error] Could not attach to MCP server mysql: Error: MCP error -32001: Request timed out
+2025-06-12 06:09:24 [warn]   WARN  [Statsig] Failed to flush events.
+2025-06-12 06:09:25 [warn] Error with Permissions-Policy header: Unrecognized feature: 'ambient-light-sensor'.
+2025-06-12 06:09:25 [warn] Error with Permissions-Policy header: Unrecognized feature: 'document-domain'.
+2025-06-12 06:09:25 [warn] Error with Permissions-Policy header: Unrecognized feature: 'speaker-selection'.
+2025-06-12 06:09:25 [warn] Error with Permissions-Policy header: Unrecognized feature: 'web-share'.
+2025-06-12 06:09:26 [warn] Error with Permissions-Policy header: Unrecognized feature: 'ambient-light-sensor'.
+2025-06-12 06:09:26 [warn] Error with Permissions-Policy header: Unrecognized feature: 'document-domain'.
+2025-06-12 06:09:26 [warn] Error with Permissions-Policy header: Unrecognized feature: 'speaker-selection'.
+2025-06-12 06:09:26 [warn] Error with Permissions-Policy header: Unrecognized feature: 'web-share'.
+2025-06-12 06:09:26 [warn] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2025-06-12 06:09:26 [warn] Found 1 service worker(s), which are no longer used. Unregistering.
+2025-06-12 06:09:26 [error] Potential permissions policy violation: payment is not allowed in this document.
+2025-06-12 06:09:32 [error] Potential permissions policy violation: payment is not allowed in this document.
+2025-06-12 06:10:27 [error] Could not attach to MCP server mysql: Error: MCP error -32001: Request timed out
+2025-06-13 10:34:39 [warn] Error with Permissions-Policy header: Unrecognized feature: 'ambient-light-sensor'.
+2025-06-13 10:34:39 [warn] Error with Permissions-Policy header: Unrecognized feature: 'document-domain'.
+2025-06-13 10:34:39 [warn] Error with Permissions-Policy header: Unrecognized feature: 'speaker-selection'.
+2025-06-13 10:34:39 [warn] Error with Permissions-Policy header: Unrecognized feature: 'web-share'.
+2025-06-13 10:34:39 [warn] Found 1 service worker(s), which are no longer used. Unregistering.
+2025-06-13 10:34:39 [warn] Error with Permissions-Policy header: Unrecognized feature: 'ambient-light-sensor'.
+2025-06-13 10:34:39 [warn] Error with Permissions-Policy header: Unrecognized feature: 'document-domain'.
+2025-06-13 10:34:39 [warn] Error with Permissions-Policy header: Unrecognized feature: 'speaker-selection'.
+2025-06-13 10:34:39 [warn] Error with Permissions-Policy header: Unrecognized feature: 'web-share'.
+2025-06-13 10:34:39 [warn] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2025-06-13 10:34:41 [error] Potential permissions policy violation: payment is not allowed in this document.
+2025-06-13 10:34:46 [error] Potential permissions policy violation: payment is not allowed in this document.
+2025-06-13 10:35:39 [error] Could not attach to MCP server mysql: Error: MCP error -32001: Request timed out
+2025-06-16 10:21:52 [warn] Error with Permissions-Policy header: Unrecognized feature: 'ambient-light-sensor'.
+2025-06-16 10:21:52 [warn] Error with Permissions-Policy header: Unrecognized feature: 'document-domain'.
+2025-06-16 10:21:52 [warn] Error with Permissions-Policy header: Unrecognized feature: 'speaker-selection'.
+2025-06-16 10:21:52 [warn] Error with Permissions-Policy header: Unrecognized feature: 'web-share'.
+2025-06-16 10:21:53 [warn] Error with Permissions-Policy header: Unrecognized feature: 'ambient-light-sensor'.
+2025-06-16 10:21:53 [warn] Error with Permissions-Policy header: Unrecognized feature: 'document-domain'.
+2025-06-16 10:21:53 [warn] Error with Permissions-Policy header: Unrecognized feature: 'speaker-selection'.
+2025-06-16 10:21:53 [warn] Error with Permissions-Policy header: Unrecognized feature: 'web-share'.
+2025-06-16 10:21:53 [warn] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2025-06-16 10:21:53 [warn] Found 1 service worker(s), which are no longer used. Unregistering.
+2025-06-16 10:22:02 [error] Potential permissions policy violation: payment is not allowed in this document.
+2025-06-16 10:22:07 [error] Potential permissions policy violation: payment is not allowed in this document.
+2025-06-16 10:22:54 [error] Could not attach to MCP server mysql: Error: MCP error -32001: Request timed out
+2025-06-16 10:30:08 [warn] Error with Permissions-Policy header: Unrecognized feature: 'ambient-light-sensor'.
+2025-06-16 10:30:08 [warn] Error with Permissions-Policy header: Unrecognized feature: 'document-domain'.
+2025-06-16 10:30:08 [warn] Error with Permissions-Policy header: Unrecognized feature: 'speaker-selection'.
+2025-06-16 10:30:08 [warn] Error with Permissions-Policy header: Unrecognized feature: 'web-share'.
+2025-06-16 10:30:09 [warn] Error with Permissions-Policy header: Unrecognized feature: 'ambient-light-sensor'.
+2025-06-16 10:30:09 [warn] Error with Permissions-Policy header: Unrecognized feature: 'document-domain'.
+2025-06-16 10:30:09 [warn] Error with Permissions-Policy header: Unrecognized feature: 'speaker-selection'.
+2025-06-16 10:30:09 [warn] Error with Permissions-Policy header: Unrecognized feature: 'web-share'.
+2025-06-16 10:30:09 [warn] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2025-06-16 10:30:09 [warn] Found 1 service worker(s), which are no longer used. Unregistering.
+2025-06-16 10:30:15 [error] Potential permissions policy violation: payment is not allowed in this document.
+2025-06-16 10:30:21 [error] Potential permissions policy violation: payment is not allowed in this document.
+2025-06-16 10:31:09 [error] Could not attach to MCP server mysql: Error: MCP error -32001: Request timed out
+2025-06-16 16:37:33 [warn] Error with Permissions-Policy header: Unrecognized feature: 'ambient-light-sensor'.
+2025-06-16 16:37:33 [warn] Error with Permissions-Policy header: Unrecognized feature: 'document-domain'.
+2025-06-16 16:37:33 [warn] Error with Permissions-Policy header: Unrecognized feature: 'speaker-selection'.
+2025-06-16 16:37:33 [warn] Error with Permissions-Policy header: Unrecognized feature: 'web-share'.
+2025-06-16 16:37:33 [warn] Found 1 service worker(s), which are no longer used. Unregistering.
+2025-06-16 16:37:33 [warn] Error with Permissions-Policy header: Unrecognized feature: 'ambient-light-sensor'.
+2025-06-16 16:37:33 [warn] Error with Permissions-Policy header: Unrecognized feature: 'document-domain'.
+2025-06-16 16:37:33 [warn] Error with Permissions-Policy header: Unrecognized feature: 'speaker-selection'.
+2025-06-16 16:37:33 [warn] Error with Permissions-Policy header: Unrecognized feature: 'web-share'.
+2025-06-16 16:37:33 [warn] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2025-06-16 16:37:35 [error] Potential permissions policy violation: payment is not allowed in this document.
+2025-06-16 16:37:40 [error] Potential permissions policy violation: payment is not allowed in this document.
+2025-06-16 16:38:33 [error] Could not attach to MCP server mysql: Error: MCP error -32001: Request timed out
+2025-06-17 14:48:15 [warn] Error with Permissions-Policy header: Unrecognized feature: 'ambient-light-sensor'.
+2025-06-17 14:48:15 [warn] Error with Permissions-Policy header: Unrecognized feature: 'document-domain'.
+2025-06-17 14:48:15 [warn] Error with Permissions-Policy header: Unrecognized feature: 'speaker-selection'.
+2025-06-17 14:48:15 [warn] Error with Permissions-Policy header: Unrecognized feature: 'web-share'.
+2025-06-17 14:48:15 [warn] Error with Permissions-Policy header: Unrecognized feature: 'ambient-light-sensor'.
+2025-06-17 14:48:15 [warn] Error with Permissions-Policy header: Unrecognized feature: 'document-domain'.
+2025-06-17 14:48:15 [warn] Error with Permissions-Policy header: Unrecognized feature: 'speaker-selection'.
+2025-06-17 14:48:15 [warn] Error with Permissions-Policy header: Unrecognized feature: 'web-share'.
+2025-06-17 14:48:15 [warn] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2025-06-17 14:48:15 [warn] Found 1 service worker(s), which are no longer used. Unregistering.
+2025-06-17 14:48:17 [error] Potential permissions policy violation: payment is not allowed in this document.
+2025-06-17 14:48:22 [error] Potential permissions policy violation: payment is not allowed in this document.
+2025-06-17 14:49:15 [error] Could not attach to MCP server mysql: Error: MCP error -32001: Request timed out
+2025-06-21 08:26:51 [warn] Error with Permissions-Policy header: Unrecognized feature: 'ambient-light-sensor'.
+2025-06-21 08:26:51 [warn] Error with Permissions-Policy header: Unrecognized feature: 'document-domain'.
+2025-06-21 08:26:51 [warn] Error with Permissions-Policy header: Unrecognized feature: 'speaker-selection'.
+2025-06-21 08:26:51 [warn] Error with Permissions-Policy header: Unrecognized feature: 'web-share'.
+2025-06-21 08:26:51 [warn] Error with Permissions-Policy header: Unrecognized feature: 'ambient-light-sensor'.
+2025-06-21 08:26:51 [warn] Error with Permissions-Policy header: Unrecognized feature: 'document-domain'.
+2025-06-21 08:26:51 [warn] Error with Permissions-Policy header: Unrecognized feature: 'speaker-selection'.
+2025-06-21 08:26:51 [warn] Error with Permissions-Policy header: Unrecognized feature: 'web-share'.
+2025-06-21 08:26:51 [warn] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2025-06-21 08:26:51 [warn] Found 1 service worker(s), which are no longer used. Unregistering.
+2025-06-21 08:26:53 [error] Potential permissions policy violation: payment is not allowed in this document.
+2025-06-21 08:26:58 [error] Potential permissions policy violation: payment is not allowed in this document.
+2025-06-21 08:27:51 [error] Could not attach to MCP server mysql: Error: MCP error -32001: Request timed out
+2025-06-21 08:29:37 [warn] Warning: Missing `Description` or `aria-describedby={undefined}` for {DialogContent}.
+2025-06-21 08:31:00 [error] Uncaught (in promise) Error: Content block index did not match the expected index
+2025-06-21 08:32:07 [warn] Warning: Missing `Description` or `aria-describedby={undefined}` for {DialogContent}.
+2025-06-21 08:32:30 [warn] Error with Permissions-Policy header: Unrecognized feature: 'ambient-light-sensor'.
+2025-06-21 08:32:30 [warn] Error with Permissions-Policy header: Unrecognized feature: 'document-domain'.
+2025-06-21 08:32:30 [warn] Error with Permissions-Policy header: Unrecognized feature: 'speaker-selection'.
+2025-06-21 08:32:30 [warn] Error with Permissions-Policy header: Unrecognized feature: 'web-share'.
+2025-06-21 08:32:45 [warn] Error with Permissions-Policy header: Unrecognized feature: 'ambient-light-sensor'.
+2025-06-21 08:32:45 [warn] Error with Permissions-Policy header: Unrecognized feature: 'document-domain'.
+2025-06-21 08:32:45 [warn] Error with Permissions-Policy header: Unrecognized feature: 'speaker-selection'.
+2025-06-21 08:32:45 [warn] Error with Permissions-Policy header: Unrecognized feature: 'web-share'.
+2025-06-21 08:32:56 [warn] Error with Permissions-Policy header: Unrecognized feature: 'ambient-light-sensor'.
+2025-06-21 08:32:56 [warn] Error with Permissions-Policy header: Unrecognized feature: 'document-domain'.
+2025-06-21 08:32:56 [warn] Error with Permissions-Policy header: Unrecognized feature: 'speaker-selection'.
+2025-06-21 08:32:56 [warn] Error with Permissions-Policy header: Unrecognized feature: 'web-share'.
+2025-06-21 08:32:56 [warn] Error with Permissions-Policy header: Unrecognized feature: 'ambient-light-sensor'.
+2025-06-21 08:32:56 [warn] Error with Permissions-Policy header: Unrecognized feature: 'document-domain'.
+2025-06-21 08:32:56 [warn] Error with Permissions-Policy header: Unrecognized feature: 'speaker-selection'.
+2025-06-21 08:32:56 [warn] Error with Permissions-Policy header: Unrecognized feature: 'web-share'.
+2025-06-21 08:32:56 [warn] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2025-06-21 08:32:56 [warn] Found 1 service worker(s), which are no longer used. Unregistering.
+2025-06-21 08:32:57 [warn] [Intercom] The App ID in your code snippet has not been set. Set it to your App ID found in settings to complete installation: https://app.intercom.com/a/apps/_/settings/web
+2025-06-21 08:33:23 [error] Potential permissions policy violation: payment is not allowed in this document.
+2025-06-21 08:33:28 [error] Potential permissions policy violation: payment is not allowed in this document.
+2025-06-21 08:33:49 [warn] Warning: Missing `Description` or `aria-describedby={undefined}` for {DialogContent}.
+2025-06-21 08:33:56 [error] Could not attach to MCP server mysql: Error: MCP error -32001: Request timed out
+2025-06-21 08:50:03 [warn] Error with Permissions-Policy header: Unrecognized feature: 'ambient-light-sensor'.
+2025-06-21 08:50:03 [warn] Error with Permissions-Policy header: Unrecognized feature: 'document-domain'.
+2025-06-21 08:50:03 [warn] Error with Permissions-Policy header: Unrecognized feature: 'speaker-selection'.
+2025-06-21 08:50:03 [warn] Error with Permissions-Policy header: Unrecognized feature: 'web-share'.
+2025-06-21 08:50:03 [warn] Found 1 service worker(s), which are no longer used. Unregistering.
+2025-06-21 08:50:03 [warn] Error with Permissions-Policy header: Unrecognized feature: 'ambient-light-sensor'.
+2025-06-21 08:50:03 [warn] Error with Permissions-Policy header: Unrecognized feature: 'document-domain'.
+2025-06-21 08:50:03 [warn] Error with Permissions-Policy header: Unrecognized feature: 'speaker-selection'.
+2025-06-21 08:50:03 [warn] Error with Permissions-Policy header: Unrecognized feature: 'web-share'.
+2025-06-21 08:50:03 [warn] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2025-06-21 08:50:05 [error] Potential permissions policy violation: payment is not allowed in this document.
+2025-06-21 08:50:10 [error] Potential permissions policy violation: payment is not allowed in this document.
+2025-06-21 08:50:22 [warn] Warning: Missing `Description` or `aria-describedby={undefined}` for {DialogContent}.
+2025-06-21 08:51:03 [error] Could not attach to MCP server mysql: Error: MCP error -32001: Request timed out
+2025-06-21 08:53:03 [warn] Warning: Missing `Description` or `aria-describedby={undefined}` for {DialogContent}.
+2025-06-21 08:53:52 [warn] Warning: Missing `Description` or `aria-describedby={undefined}` for {DialogContent}.
+2025-06-21 08:54:06 [warn] Warning: Missing `Description` or `aria-describedby={undefined}` for {DialogContent}.
+2025-06-21 08:54:59 [warn] Warning: Missing `Description` or `aria-describedby={undefined}` for {DialogContent}.
+2025-06-23 15:02:28 [warn] Error with Permissions-Policy header: Unrecognized feature: 'ambient-light-sensor'.
+2025-06-23 15:02:28 [warn] Error with Permissions-Policy header: Unrecognized feature: 'document-domain'.
+2025-06-23 15:02:28 [warn] Error with Permissions-Policy header: Unrecognized feature: 'speaker-selection'.
+2025-06-23 15:02:28 [warn] Error with Permissions-Policy header: Unrecognized feature: 'web-share'.
+2025-06-23 15:02:28 [warn] Error with Permissions-Policy header: Unrecognized feature: 'ambient-light-sensor'.
+2025-06-23 15:02:28 [warn] Error with Permissions-Policy header: Unrecognized feature: 'document-domain'.
+2025-06-23 15:02:28 [warn] Error with Permissions-Policy header: Unrecognized feature: 'speaker-selection'.
+2025-06-23 15:02:28 [warn] Error with Permissions-Policy header: Unrecognized feature: 'web-share'.
+2025-06-23 15:02:28 [warn] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2025-06-23 15:02:28 [warn] Found 1 service worker(s), which are no longer used. Unregistering.
+2025-06-23 15:02:30 [error] Potential permissions policy violation: payment is not allowed in this document.
+2025-06-23 15:02:35 [error] Potential permissions policy violation: payment is not allowed in this document.
+2025-06-23 15:03:28 [error] Could not attach to MCP server mysql: Error: MCP error -32001: Request timed out
+2025-06-23 15:04:42 [warn] Warning: Missing `Description` or `aria-describedby={undefined}` for {DialogContent}.
+2025-06-23 15:04:49 [warn] Warning: Missing `Description` or `aria-describedby={undefined}` for {DialogContent}.
+2025-06-23 15:43:53 [warn] Warning: Missing `Description` or `aria-describedby={undefined}` for {DialogContent}.
+2025-06-23 15:44:23 [warn] Warning: Missing `Description` or `aria-describedby={undefined}` for {DialogContent}.
+2025-06-23 15:46:32 [warn] Warning: Missing `Description` or `aria-describedby={undefined}` for {DialogContent}.
+2025-06-23 15:49:10 [warn] Error with Permissions-Policy header: Unrecognized feature: 'ambient-light-sensor'.
+2025-06-23 15:49:10 [warn] Error with Permissions-Policy header: Unrecognized feature: 'document-domain'.
+2025-06-23 15:49:10 [warn] Error with Permissions-Policy header: Unrecognized feature: 'speaker-selection'.
+2025-06-23 15:49:10 [warn] Error with Permissions-Policy header: Unrecognized feature: 'web-share'.
+2025-06-23 15:49:10 [warn] Found 1 service worker(s), which are no longer used. Unregistering.
+2025-06-23 15:49:10 [warn] Error with Permissions-Policy header: Unrecognized feature: 'ambient-light-sensor'.
+2025-06-23 15:49:10 [warn] Error with Permissions-Policy header: Unrecognized feature: 'document-domain'.
+2025-06-23 15:49:10 [warn] Error with Permissions-Policy header: Unrecognized feature: 'speaker-selection'.
+2025-06-23 15:49:10 [warn] Error with Permissions-Policy header: Unrecognized feature: 'web-share'.
+2025-06-23 15:49:10 [warn] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2025-06-23 15:49:12 [error] Potential permissions policy violation: payment is not allowed in this document.
+2025-06-23 15:49:17 [error] Potential permissions policy violation: payment is not allowed in this document.
+2025-06-23 15:50:10 [error] Could not attach to MCP server mysql: Error: MCP error -32001: Request timed out
+2025-06-24 13:47:11 [warn] Error with Permissions-Policy header: Unrecognized feature: 'ambient-light-sensor'.
+2025-06-24 13:47:11 [warn] Error with Permissions-Policy header: Unrecognized feature: 'document-domain'.
+2025-06-24 13:47:11 [warn] Error with Permissions-Policy header: Unrecognized feature: 'speaker-selection'.
+2025-06-24 13:47:11 [warn] Error with Permissions-Policy header: Unrecognized feature: 'web-share'.
+2025-06-24 13:47:12 [warn] Error with Permissions-Policy header: Unrecognized feature: 'ambient-light-sensor'.
+2025-06-24 13:47:12 [warn] Error with Permissions-Policy header: Unrecognized feature: 'document-domain'.
+2025-06-24 13:47:12 [warn] Error with Permissions-Policy header: Unrecognized feature: 'speaker-selection'.
+2025-06-24 13:47:12 [warn] Error with Permissions-Policy header: Unrecognized feature: 'web-share'.
+2025-06-24 13:47:12 [warn] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2025-06-24 13:47:12 [warn] Found 1 service worker(s), which are no longer used. Unregistering.
+2025-06-24 13:47:13 [error] Potential permissions policy violation: payment is not allowed in this document.
+2025-06-24 13:47:18 [error] Potential permissions policy violation: payment is not allowed in this document.
+2025-06-24 15:00:09 [warn] Error with Permissions-Policy header: Unrecognized feature: 'ambient-light-sensor'.
+2025-06-24 15:00:09 [warn] Error with Permissions-Policy header: Unrecognized feature: 'document-domain'.
+2025-06-24 15:00:09 [warn] Error with Permissions-Policy header: Unrecognized feature: 'speaker-selection'.
+2025-06-24 15:00:09 [warn] Error with Permissions-Policy header: Unrecognized feature: 'web-share'.
+2025-06-24 15:00:09 [warn] Error with Permissions-Policy header: Unrecognized feature: 'ambient-light-sensor'.
+2025-06-24 15:00:09 [warn] Error with Permissions-Policy header: Unrecognized feature: 'document-domain'.
+2025-06-24 15:00:09 [warn] Error with Permissions-Policy header: Unrecognized feature: 'speaker-selection'.
+2025-06-24 15:00:09 [warn] Error with Permissions-Policy header: Unrecognized feature: 'web-share'.
+2025-06-24 15:00:09 [warn] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+2025-06-24 15:00:09 [warn] Found 1 service worker(s), which are no longer used. Unregistering.
+2025-06-24 15:00:11 [error] Potential permissions policy violation: payment is not allowed in this document.
+2025-06-24 15:00:16 [error] Potential permissions policy violation: payment is not allowed in this document.
+2025-06-24 15:01:10 [error] Could not attach to MCP server mysql: Error: MCP error -32001: Request timed out
