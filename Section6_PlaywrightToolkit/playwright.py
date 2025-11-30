@@ -12,7 +12,8 @@ async def main():
     tools = toolkit.get_tools()
 
     # ✅ LLM setup
-    llm = ChatOllama(model="gemma3:1b", base_url="http://localhost:11434")
+    llm = ChatOllama(model="gemma3:1b", 
+                     base_url="http://localhost:11434")
 
     # ✅ Tool mapping
     tool_by_name = {tool.name: tool for tool in tools}
